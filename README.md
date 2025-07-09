@@ -4,7 +4,7 @@
 
 ## Blog Post
 
-This repository contains the source code for the project featured in the blog post: **[Getting Started with Agentic AI: Build Your First AI-Powered Web Scraper Using LangGraph & LangChain](YOUR_BLOG_POST_LINK_HERE)**.
+This repository contains the source code for the project featured in the blog post: **[Getting Started with Agentic AI: Build Your First AI-Powered Web Scraper Using LangGraph & LangChain](https://medium.com/@donprecious/getting-started-with-agentic-ai-build-your-first-ai-powered-web-scraper-using-langgraph-23a652a8e912?source=friends_link&sk=5976d3b377fcbd01d0d77ffd954139be)**.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/ai-job-extractor.git
+    git clone https://github.com/donprecious/ai-job-extractor.git
     cd ai-job-extractor
     ```
 
